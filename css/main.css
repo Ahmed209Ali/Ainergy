@@ -1,0 +1,1236 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  height: 1000px;
+}
+
+.home1 {
+
+  background-color: white;
+  width: 100%;
+  height: 110vh;
+  background-attachment: fixed;
+  background-image: url(../img/hero-bg.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+
+
+
+}
+
+.home1 .navbar1 {
+
+  background-attachment: fixed;
+
+
+}
+
+.home1 .navbar1 #a1 {
+  font-size: 40px;
+  list-style-type: none;
+  margin: 0px 30px;
+  padding: 20px 20px;
+  color: rgb(72, 71, 71);
+  position: absolute;
+  top: 15px;
+
+}
+
+.home1 .navbar1 #a1 span {
+  color: rgb(165, 68, 8);
+  font-size: 30px;
+
+}
+
+.home1 .navbar1 ul {
+  display: flex;
+  margin-right: 120px;
+  justify-content: flex-end;
+
+}
+
+.home1 .navbar1 ul li {
+  font-size: 20px;
+  margin: 30px 20px;
+  list-style-type: none;
+}
+
+.home1 .navbar1 ul li a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+.home1 .navbar1 ul a:hover {
+  transition: 0.3s;
+  color: rgb(165, 68, 8);
+
+}
+
+.home1 .navbar1 ul a span {
+
+  color: rgb(195, 17, 20);
+
+}
+
+.home1 .bage {
+  margin-top: 50px;
+  text-align: center;
+
+}
+
+.home1 .bage h1 {
+  font-size: 50px;
+  color: rgb(220, 94, 16);
+  margin: 20px;
+
+}
+
+.home1 .bage p {
+  font-size: 20px;
+
+  margin: 20px;
+
+}
+
+.home1 .bage span img {
+  width: 100%;
+}
+
+.home1 .bage1 button {
+  text-align: center;
+  width: 12%;
+  height: 40px;
+  margin: 20px;
+  background-color: white;
+  border-radius: 30px 30px;
+  color: rgb(220, 94, 16);
+  border: 2px solid rgb(220, 94, 16);
+  padding: 20px 10px;
+  font-size: 20px;
+  padding-top: 4px;
+}
+
+.home1 .bage1 button a {
+  text-decoration: none;
+  color: rgb(220, 94, 16);
+}
+
+.home1 .bage1 button:hover {
+  background-color: rgb(220, 94, 16);
+  transition: 0.5s;
+  color: white;
+
+}
+
+.home1 .bage .bage1 .bage2 a {
+  text-decoration: none;
+  color: rgb(95, 93, 93);
+
+}
+
+.home1 .bage .bage1 .bage2 a i {
+  margin: 10px 25px;
+  font-size: 20px;
+
+}
+
+.home1 .bage .bage1 .bage2 a:hover {
+  transition: 0.4s;
+  color: rgb(220, 94, 16);
+}
+
+.a1 {
+  text-align: center;
+  margin: 100px;
+  font-family: unset;
+  font-weight: 30px;
+  font-size: 23px;
+  color: #464444;
+}
+
+.home2 {
+
+  width: 100%;
+  height: 70vh;
+  background-color: white;
+  text-align: center;
+  margin-top: 80px;
+  display: flex;
+
+}
+
+.home2 .home21 img {
+  margin-top: 10px;
+  width: 9%;
+}
+
+.home2 .home21 {
+  width: 40%;
+  height: 30%;
+  margin: 50px;
+}
+
+.home2 .home21:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home2 .home22:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home2 .home21 h3 {
+  margin: 10px;
+
+}
+
+.home2 .home21 p {
+  margin: 10px;
+  color: rgba(95, 92, 92, 0.641);
+}
+
+.home2 .home22 img {
+  margin-top: 10px;
+  width: 9%;
+}
+
+.home2 .home22 {
+  width: 40%;
+  height: 30%;
+  margin: 50px;
+}
+
+.home2 .home22 h3 {
+  margin: 10px;
+}
+
+.home2 .home22 p {
+  margin: 10px;
+  color: rgba(95, 92, 92, 0.641);
+}
+
+.a2 {
+  text-align: center;
+  color: #464444;
+  margin: 40px 10px;
+}
+
+.a2 h1 {
+  text-align: center;
+  font-size: 40px;
+
+}
+
+.a2 p {
+  color: #4644448a;
+  text-align: center;
+  font-size: 20px;
+}
+
+.home3 {
+  width: 100%;
+  height: 100vh;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.home3 .home31 {
+  text-align: center;
+  width: 30%;
+  height: 30%;
+  margin: 20px 3px;
+}
+
+.home3 .home31:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home31:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home32:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home33:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home34:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home35:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home31 img {
+  width: 14%;
+  margin: 20px;
+}
+
+.home3 .home32 {
+  text-align: center;
+  margin: 20px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home3 .home32 img {
+  width: 14%;
+  margin: 20px;
+}
+
+.home3 .home33 {
+  text-align: center;
+  margin: 20px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home3 .home33 img {
+  width: 14%;
+  margin: 20px;
+}
+
+.home3 .home34 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 40%;
+  height: 30%;
+}
+
+.home3 .home34 img {
+  width: 14%;
+  margin: 15px;
+}
+
+.home3 .home35 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 40%;
+  height: 30%;
+}
+
+.home3 .home35 img {
+  width: 14%;
+  margin: 15px;
+}
+
+.a3 {
+  text-align: center;
+  color: #464444;
+  margin: 40px 10px;
+}
+
+.a3 h1 {
+  text-align: center;
+  font-size: 40px;
+
+}
+
+.a3 p {
+  color: #4644448a;
+  text-align: center;
+  font-size: 20px;
+}
+
+.home4 {
+  width: 100%;
+  height: 100vh;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.home4 .home41 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home41 i {
+  margin: 30px;
+}
+
+.home4 .home42 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home42 i {
+  margin: 30px;
+}
+
+.home4 .home43 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home43 i {
+  margin: 30px;
+}
+
+.home4 .home44 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home44 i {
+  margin: 30px;
+}
+
+.home4 .home45 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home45 i {
+  margin: 30px;
+}
+
+.home4 .home46 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home46 i {
+
+  margin: 30px;
+}
+
+.home4 .home41:hover {
+
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home4 .home42:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home4 .home43:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home4 .home44:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home4 .home45:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home4 .home46:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.a4 {
+  font-size: 25px;
+
+  text-align: center;
+  color: #464444;
+  margin: 40px 10px;
+}
+
+.home5 {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 10px solid black;
+
+}
+
+.home5 .home53 {
+  width: 30%;
+  height: auto;
+  display: block;
+  margin: 70px;
+}
+
+.home5 .home53 .home51 {
+  /* background-color: aquamarine; */
+  margin: 30px 10px;
+
+}
+
+.home5 .home53 .home51 .home511 i {
+  font-size: 30px;
+  /* margin-top: 20px; */
+  position: relative;
+  top: 30px;
+
+  color: rgb(198, 86, 11);
+
+
+}
+
+.home5 .home53 .home51 .home511 p {
+  font-size: 18px;
+  text-align: center;
+
+
+}
+
+.home5 .home53 .home51 .home512 i {
+  font-size: 30px;
+  color: rgb(198, 86, 11);
+  position: relative;
+  top: 30px;
+
+
+}
+
+.home5 .home53 .home51 .home512 p {
+  font-size: 18px;
+  text-align: center;
+
+
+}
+
+.home5 .home53 .home51 .home513 i {
+  font-size: 30px;
+  color: rgb(198, 86, 11);
+  position: relative;
+  top: 30px;
+
+
+
+}
+
+.home5 .home53 .home51 .home513 p {
+  font-size: 18px;
+  text-align: center;
+
+
+}
+
+.home5 .home6 {
+  width: 40%;
+  margin: 20px;
+  margin-top: 80px;
+}
+
+.home5 .home6 .home61 input {
+  margin: 10px;
+  width: 70%;
+  height: 30px;
+}
+
+.home5 .home6 .home62 input {
+  margin: 10px;
+  width: 70%;
+  height: 30px;
+}
+
+.home5 .home6 .home63 input {
+  margin: 10px;
+  width: 70%;
+  height: 30px;
+}
+
+.home5 .home6 .home64 input {
+  margin: 10px;
+  width: 70%;
+  height: 30px;
+}
+
+.home5 .home6 .home65 input {
+  margin: 10px;
+  width: 70%;
+  height: 30px;
+}
+
+.home5 .home6 .home67 {
+  text-align: center;
+  margin: 20px;
+
+}
+
+.home5 .home6 .home67 button {
+  text-align: center;
+  margin-right: 20px;
+  width: 25%;
+  height: 40px;
+  background-color: rgb(198, 109, 8);
+  color: white;
+  border: 1px solid white;
+
+}
+
+.home5 .home6 .home67 button:hover {
+  background-color: rgb(11, 214, 146);
+  transition: 0.5s;
+}
+
+.home7 {
+  width: 100%;
+  height: 10vh;
+  background-color: white;
+}
+
+.home7 h3 {
+  font-style: italic;
+  margin: 30px 30px;
+  text-align: center;
+}
+
+.home7 span {
+  color: #c80a0ac2;
+}
+
+
+
+/*   sign up */
+.foter {
+
+  width: 100%;
+  height: 40vh;
+  
+}
+
+.foter .navbar1 {
+
+
+  background-attachment: fixed;
+
+
+}
+
+.foter .navbar1 #a1 {
+  font-size: 40px;
+  list-style-type: none;
+  margin: 0px 30px;
+  padding: 20px 20px;
+  color: rgb(72, 71, 71);
+  position: absolute;
+  top: 15px;
+
+}
+
+.foter .navbar1 #a1 span {
+  color: rgb(165, 68, 8);
+  font-size: 30px;
+
+}
+
+.foter .navbar1 ul {
+  display: flex;
+  margin-right: 120px;
+  justify-content: flex-end;
+
+}
+
+.foter .navbar1 ul li {
+  font-size: 20px;
+  margin: 30px 20px;
+  list-style-type: none;
+}
+
+.foter .navbar1 ul li a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+.foter .navbar1 ul a:hover {
+  transition: 0.3s;
+  color: rgb(165, 68, 8);
+
+}
+
+.foter .navbar1 ul a span {
+
+  color: rgb(195, 17, 20);
+
+}
+
+.foter1 {
+  width: 70%;
+justify-content: center;
+margin-left: 30%;
+}
+
+.foter1 .foter2 {
+width: 50%;
+padding: auto;
+height: 40px;
+border-radius : 5px 5px;
+  text-align: center;
+  border: #464444 1px solid;
+  color: #464444;
+  font-size: 20px;
+}
+.foter1 .foter2 h3{
+ margin-top: 5px;
+  }
+
+.foter1 .foter3 {
+ text-align: center;
+width: 50%;
+border-radius: 5px 5px;
+  border: #464444 1px solid;
+}
+
+.foter1 .foter3 .foter31 {
+ justify-content: center;
+  font-size: 20px;
+  display: flex;
+ 
+  margin: 20px;
+  color: #464444;
+}
+
+.foter1 .foter3 .foter311 {
+
+  margin-left: 20px;
+}
+
+.foter1 .foter3 .foter311 input {
+  margin-left: 100px;
+  height: 30px;
+  width: 240px;
+  border-radius: 10px 10px;
+  border: 1px solid #464444;
+  ;
+}
+
+
+.foter1 .foter3 .foter32 {
+  justify-content: center;
+  font-size: 20px;
+  display: flex;
+  margin: 20px;
+  color: #464444;
+}
+
+.foter1 .foter3 .foter312 {
+
+  margin-left: 20px;
+}
+
+.foter1 .foter3 .foter312 input {
+  height: 30px;
+  width: 240px;
+  margin-left: 30px;
+  border-radius: 10px 10px;
+  border: 1px solid #464444;
+  ;
+}
+
+
+
+.foter1 .foter3 .foter33 {
+  
+justify-content: center;
+  font-size: 20px;
+  display: flex;
+  margin: 20px;
+  color: #464444;
+}
+
+.foter1 .foter3 .foter313 {
+
+  margin-left: 20px;
+}
+
+.foter1 .foter3 .foter313 input {
+  height: 30px;
+  margin-left: 70px;
+  width: 240px;
+  border-radius: 10px 10px;
+  border: 1px solid #464444;
+  ;
+}
+
+
+
+
+.foter1 .foter3 .foter34 {
+  justify-content: center;
+  font-size: 20px;
+  display: flex;
+  margin: 20px;
+  color: #464444;
+}
+
+.foter1 .foter3 .foter314 {
+
+  margin-left: 20px;
+}
+
+.foter1 .foter3 .foter314 input {
+  height: 30px;
+  width: 240px;
+  border-radius: 10px 10px;
+  border: 1px solid #464444;
+  ;
+}
+
+
+
+
+
+.foter1 .foter3 .foter35 {
+  justify-content: center;
+  font-size: 20px;
+  display: flex;
+  margin: 20px;
+  color: #464444;
+}
+
+.foter1 .foter3 .foter315{
+
+  margin-left: 20px;
+}
+.foter1 .foter316{
+
+  margin: 30px;
+}
+.foter1 .foter316 button{
+  
+  width: 30%;
+  border-radius: 20px 20px;
+height: 40px;
+  margin: 30px;
+  color: azure;
+  background-color: rgb(216, 136, 14);
+}
+.foter1 .foter316 button:hover{
+  background-color: rgb(7, 50, 246);
+  transition: 0.6s;
+}
+
+
+
+.con1{
+  width: 100%;
+  height: 50vh;
+  text-align:left;
+  justify-content: center;
+
+
+
+}
+.con1 .con0{
+
+  width: 70%;
+ margin-left: 30%;
+
+
+}
+.con1 .con2{
+  /* margin-left: 10%; */
+  width: 50%;
+  text-align: center;
+  border: #464444 1px solid;
+  border-radius: 5px 5px;
+  padding: 10px;
+  font-size: 20px;
+}
+.con1 .con3{
+  font-size: 20px;
+  margin: 30px;
+  width: 30%;
+  justify-content: center;
+  display: flex;
+}
+.con1 .con3 .con31{
+  margin: 0px 30px;
+  width: 40%;
+  
+ 
+}
+.con1 .con3 .con31 input{
+  /* margin: 0px 30px; */
+  width: 230px;
+  height: 30px;
+  border-radius: 5px 5px;
+  
+ 
+}
+
+
+.con1 .con4 .con41{
+  margin: 0px 30px;
+  width: 40%;
+  margin-right: 40px;
+ 
+}
+.con1 .con4 .con41 input{
+  margin: 0px 30px;
+  width: 230px;
+  height: 30px;
+  margin-left: 20px;
+  border-radius: 5px 5px;
+ 
+  
+ 
+}
+
+.con1 .con4{
+  font-size: 20px;
+  margin: 30px;
+  width: 30%;
+  justify-content: center;
+  display: flex;
+}
+
+.con1 .con5{
+  margin: 30px;
+  width: 30%;
+  justify-content: center;
+  display: flex;
+}
+
+.con1 .con5 input{
+
+  width: 30%;
+ 
+}
+
+
+.con1 .con6{
+  margin: 30px;
+  width: 30%;
+  justify-content: center;
+  display: flex;
+}
+.con1 .con6 button{
+  margin: 30px;
+  width: 30%;
+ padding: 10px;
+ border-radius: 5px ;
+ color: white;
+ background-color: #dc940e;
+
+ 
+}
+.con1 .con6 button:hover{
+ transition: all 0.6s;
+ color: white;
+ background-color: #1f0da3;
+
+ 
+}
+
+
+/* media */
+@media screen and (max-width : 740px) {
+  .home1 .navbar1{
+    display: none;
+}
+
+
+.home1 .navbar1 .tegller {
+  display: block;
+  margin: 40px 30px;
+
+}
+.home1 .navbar1{
+
+  display: inline;
+
+}
+.home1 .navbar1 {
+  text-align: center;
+  display: flex;
+
+}
+.home1 .navbar1 ul{
+  display: none;
+}
+.home1 .navbar1 .tegller {
+  color: rgb(44, 45, 46);
+  font-size: 35px;
+  text-align: right;
+  margin-left: 90%;
+
+
+}
+.home1 .navbar1 {
+  width: 100%;
+  height: 100px;
+
+}
+ .bage{
+width: 100%;
+height: auto;
+ }
+ .bage img{
+width: 60%;
+}
+.bage1 button{
+display:none;
+}
+
+.home1 {
+
+  background-color: white;
+  width: 100%;
+  height: 110vh;
+  background-attachment: fixed;
+  background-image: url(../img/hero-bg.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+
+
+
+}
+
+
+.a1 {
+  text-align: center;
+  margin: 100px;
+  font-family: unset;
+  font-weight: 30px;
+  font-size: 13px;
+  color: #464444;
+}
+
+.home2 {
+
+  width: 100%;
+  height: 70vh;
+  background-color: white;
+  text-align: center;
+  margin-top: 80px;
+  display: flex;
+
+}
+
+.home2 .home21 img {
+  margin-top: 10px;
+  width: 40%;
+}
+
+.home2 .home21 {
+  width: 50%;
+  height: 50%;
+  margin: 50px;
+}
+
+.home2 .home21:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home2 .home22:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home2 .home21 h3 {
+  margin: 10px;
+
+}
+
+.home2 .home21 p {
+  margin: 10px;
+  color: rgba(95, 92, 92, 0.641);
+}
+
+.home2 .home22 img {
+  margin-top: 10px;
+  width: 40%;
+}
+
+.home2 .home22 {
+  width: 50%;
+  height: 50%;
+  margin: 50px;
+}
+
+.home2 .home22 h3 {
+  margin: 10px;
+}
+
+.home2 .home22 p {
+  margin: 10px;
+  color: rgba(95, 92, 92, 0.641);
+}
+.home6 .home66{
+  display: none;
+}
+.home5{
+  width: 100%;
+height: 150vh;
+  display: block;
+}
+
+
+
+
+
+
+
+.home5 .home53 {
+  width: 80%;
+  height: auto;
+  display: block;
+  margin: 70px;
+}
+
+
+
+.home5 .home53 .home51 .home511 i {
+  font-size: 30px;
+  /* margin-top: 20px; */
+  position: relative;
+  top: 30px;
+
+  color: rgb(198, 86, 11);
+
+
+}
+
+.home5 .home53 .home51 .home511 p {
+  font-size: 18px;
+  text-align: center;
+
+
+}
+
+.home5 .home53 .home51 .home512 i {
+  font-size: 30px;
+  color: rgb(198, 86, 11);
+  position: relative;
+  top: 30px;
+
+
+}
+
+.home5 .home53 .home51 .home512 p {
+  font-size: 18px;
+  text-align: center;
+
+
+}
+
+.home5 .home53 .home51 .home513 i {
+  font-size: 30px;
+  color: rgb(198, 86, 11);
+  position: relative;
+  top: 30px;
+
+
+
+}
+
+.home5 .home53 .home51 .home513 p {
+  font-size: 18px;
+  text-align: center;
+
+
+}
+
+.home5 .home6 {
+  width: 90%;
+  margin: 20px;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.home5 .home6 .home61 input {
+  margin: 10px;
+  width: 70%;
+  height: 30px;
+}
+
+.home5 .home6 .home62 input {
+  margin: 10px;
+  width: 70%;
+  height: 30px;
+}
+
+.home5 .home6 .home63 input {
+  margin: 10px;
+  width: 70%;
+  height: 30px;
+}
+
+.home5 .home6 .home64 input {
+  margin: 10px;
+  width: 70%;
+  height: 30px;
+}
+
+.home5 .home6 .home65 input {
+  margin: 10px;
+  width: 70%;
+  height: 30px;
+}
+
+.home5 .home6 .home67 {
+  text-align: center;
+  margin: 20px;
+
+}
+
+.home5 .home6 .home67 button {
+  text-align: center;
+  margin-right: 20px;
+  width: 25%;
+  height: 40px;
+  background-color: rgb(198, 109, 8);
+  color: white;
+  border: 1px solid white;
+
+}
+
+.home5 .home6 .home67 button:hover {
+  background-color: rgb(11, 214, 146);
+  transition: 0.5s;
+}
+
+}
