@@ -960,7 +960,11 @@ height: 40px;
 
  
 }
+.home1 .navbar1 .tegller {
+  display: none;
+  
 
+}
 
 /* media */
 @media screen and (max-width : 740px) {
