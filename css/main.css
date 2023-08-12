@@ -1008,6 +1008,10 @@ height: 40px;
 width: 100%;
 height: auto;
  }
+ .bage{
+  width: 100%;
+  height: auto;
+   }
  .bage img{
 width: 60%;
 }
@@ -1031,12 +1035,13 @@ display:none;
 }
 
 
+
 .a1 {
   text-align: center;
-  margin: 100px;
+  margin: 100px 30px;
   font-family: unset;
-  font-weight: 30px;
-  font-size: 13px;
+
+  font-size: 10px;
   color: #464444;
 }
 
@@ -1057,8 +1062,8 @@ display:none;
 }
 
 .home2 .home21 {
-  width: 50%;
-  height: 50%;
+  width: 90%;
+  height: 40%;
   margin: 50px;
 }
 
@@ -1081,6 +1086,7 @@ display:none;
 
 .home2 .home21 p {
   margin: 10px;
+  font-size: 12px;
   color: rgba(95, 92, 92, 0.641);
 }
 
@@ -1090,8 +1096,8 @@ display:none;
 }
 
 .home2 .home22 {
-  width: 50%;
-  height: 50%;
+  width: 70%;
+  height: 40%;
   margin: 50px;
 }
 
@@ -1100,7 +1106,7 @@ display:none;
 }
 
 .home2 .home22 p {
-  margin: 10px;
+  font-size: 12px;
   color: rgba(95, 92, 92, 0.641);
 }
 .home6 .home66{
@@ -1235,6 +1241,201 @@ height: 150vh;
 .home5 .home6 .home67 button:hover {
   background-color: rgb(11, 214, 146);
   transition: 0.5s;
+}
+
+
+
+
+
+
+
+
+
+
+
+.home3 {
+  width: 100%;
+  height: 80vh;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.home3 .home31 {
+  text-align: center;
+  width: 30%;
+  height: 20%;
+  margin: 20px 3px;
+}
+
+.home3 .home31:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home31:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home32:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home33:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home34:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home35:hover {
+  margin-top: 10px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 0px rgb(210, 188, 188);
+}
+
+.home3 .home31 img {
+  width: 14%;
+  margin: 20px;
+}
+
+.home3 .home32 {
+  text-align: center;
+  margin: 20px 3px;
+  width: 30%;
+  height: 20%;
+}
+
+.home3 .home32 img {
+  width: 14%;
+  margin: 20px;
+}
+
+.home3 .home33 {
+  text-align: center;
+  font-size: 15px;
+  margin: 20px 3px;
+  width: 30%;
+  height: 20%;
+}
+
+.home3 .home33 img {
+  width: 14%;
+  margin: 20px;
+}
+
+.home3 .home34 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 40%;
+  height: 20%;
+}
+
+.home3 .home34 img {
+  width: 14%;
+  margin: 15px;
+}
+
+.home3 .home35 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 40%;
+  height: 20%;
+}
+
+.home3 .home35 img {
+  width: 14%;
+  margin: 15px;
+}
+
+.home4 {
+  width: 100%;
+  height: 90vh;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.home4 .home41 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home41 i {
+  margin: 30px;
+}
+
+.home4 .home42 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home42 i {
+  margin: 30px;
+}
+
+.home4 .home43 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home43 i {
+  margin: 30px;
+}
+
+.home4 .home44 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home44 i {
+  margin: 30px;
+}
+
+.home4 .home45 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home45 i {
+  margin: 30px;
+}
+
+.home4 .home46 {
+  text-align: center;
+  margin: 70px 3px;
+  width: 30%;
+  height: 30%;
+}
+
+.home4 .home46 i {
+
+  margin: 30px;
+}
+.home5{
+  height: 102vh;
 }
 
 }
